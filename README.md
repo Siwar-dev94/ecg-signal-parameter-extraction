@@ -38,6 +38,6 @@ https://colab.research.google.com/drive/1ZNjvP60NU5dfyRGgfEoTjgnv2heNyHdT?usp=sh
 
 (Add ECG plots and results here)
 
-## 🚀 Author
+##  Author
 
 Siwar Harzli
